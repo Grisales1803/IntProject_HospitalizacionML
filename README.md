@@ -188,7 +188,7 @@ Como en el modelo de árboles de decisión, vamos a iniciar buscando el valor de
 
 <img src="KVecinosOpt.jpg" alt="KVecinos" width="550" height="400">
 
-Vemos que el valor óptimo de K es de 3 sin que se presente un sobreajuste del modelo de entrenamiento. Vamos a instanciar un nuevo modelo pero con este valor de K y calculamos las métricas de evaluación que usamos para el modelo de árboles de decisión.
+Vemos que el valor óptimo de K es de 3 sin que se presente un sobreajuste del modelo de entrenamiento. Vamos a instanciar, ajustar y testear un nuevo modelo pero con este valor de K y calculamos las métricas de evaluación que usamos para el modelo de árboles de decisión.
 
 ### *2.3.1. Evaluación del Modelo de K-Vecinos:*
 
