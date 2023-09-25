@@ -85,7 +85,7 @@ Ahora bien, a priori no conocemos cuál es la profundidad óptima que nos maximi
 
 <img src="OptDecTree.jpg" alt="DecTree" width="550" height="400">
 
-Se puede observar en el recuadro azul que la profundidad óptima es 3. Por lo que se procede a instanciar, entrenar y testear un árbol de decisión de profundidad obteniendo el siguiente modelo:
+Se puede observar en el recuadro azul que la profundidad óptima es 3. Por lo que se procede a instanciar, entrenar y testear un árbol de decisión de profundidad 3 obteniendo el siguiente modelo:
 
 <img src="image-2.png" alt="DecTree" width="600" height="500">
 
