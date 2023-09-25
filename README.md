@@ -81,7 +81,7 @@ Un modelo de árbol de decisión necesita que definamos un hiperparámetro llama
 
 A, B, C, etc. representan las preguntas que va haciendo el árbol en cada subdivisión por sus ramas. En efecto, cada vez que baja un nivel, aumenta su profundidad.
 
-Ahora bien, a priori no conocemos cuál es la profundidad óptima que nos maximiza la exactitud del modelo sin caer en un sobreajuste en el conjunto de entrenamiento (Exactitud =  1). Un sobreajuste en el modelo de entrenamiento no permite que el modelo pueda generalizar y, por lo tanto, caer en este extremo no es correcto. A partir de la siguiente gráfica podemos buscar la profundidad óptima:
+Ahora bien, a priori no conocemos cuál es la profundidad óptima que nos maximiza la exactitud del modelo sin caer en un sobreajuste en el conjunto de entrenamiento (Exactitud =  1). Un sobreajuste en el conjunto de entrenamiento no permite que el modelo pueda generalizar y, por lo tanto, caer en este extremo no es correcto. A partir de la siguiente gráfica podemos buscar la profundidad óptima:
 
 <img src="OptDecTree.jpg" alt="DecTree" width="550" height="400">
 
