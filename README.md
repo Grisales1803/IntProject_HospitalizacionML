@@ -1,7 +1,7 @@
 <img src="https://cdn.wallpapersafari.com/60/27/BEXWtN.jpg" alt="Hospital Image" width="1010" height="200">
 
 
-#  **Estudio Hospitalizacion - Modelo de Machine Learning** 
+#  **Estudio Hospitalización - Modelo de Machine Learning** 
 
 ## Modelo de Predicción de Hospitalización por Complicaciones Infecciosas Después de Biopsia Prostática
 
