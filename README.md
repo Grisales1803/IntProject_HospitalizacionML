@@ -182,6 +182,8 @@ La idea fundamental detrás del algoritmo K-NN es que, dado un punto de datos de
 
 En el caso de esta imagen, si por ejemplo el usuario selecciona un K de 3, entonces la estrella roja será clasificada como un círculo morado porque son los de mayoría. 
 
+Debido a que es un método basado en distancias, fue necesario hacer una normalización de toda las variables usando el método MinMaxScaler. Con esto, todas las variables quedan entre 0 y 1.
+
 Como en el modelo de árboles de decisión, vamos a iniciar buscando el valor de K que no maximiza la exactitud del modelo. Los resultados se pueden apreciar en la siguiente gráfica:
 
 <img src="KVecinosOpt.jpg" alt="KVecinos" width="550" height="400">
