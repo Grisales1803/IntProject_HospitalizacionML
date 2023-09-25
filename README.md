@@ -238,7 +238,7 @@ En este proyecto de análisis y modelado de Machine Learning para predecir la ho
 
 - **Balanceo de Clases:** Dado que teníamos un desequilibrio significativo entre las clases de hospitalización y no hospitalización, aplicamos un método de submuestreo aleatorio para equilibrar el conjunto de datos de entrenamiento. Esto mejoró la capacidad del modelo para clasificar ambas clases de manera efectiva.
 
-- **Modelo de Árboles de Decisión:** Construimos un modelo de árboles de decisión para predecir la hospitalización. Después de optimizar la profundidad del árbol a 3, obtuvimos un modelo con un rendimiento bueno. Los valores de las tres métricas de evaluación y comparación son los sigueintes:
+- **Modelo de Árboles de Decisión:** Construimos un modelo de árboles de decisión para predecir la hospitalización. Después de optimizar la profundidad del árbol a 3, obtuvimos un modelo con un rendimiento bueno. Los valores de las tres métricas de evaluación y comparación son los siguientes:
 
     - Exactitud: 72.7%
     - Sensibilidad: 80%
