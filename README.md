@@ -135,7 +135,7 @@ Se puede observar que para el conjunto de entrenamiento (42 registros) lo siguie
 <img src="image-5.png" alt="DecTree" width="400" height="350">
 
 Se puede observar que para el conjunto de test (11 registros) lo siguiente:
-- Cantidad de verdaderos negativos: 5
+- Cantidad de verdaderos negativos: 4
 - Cantidad de verdaderos positivos: 4
 - Cantidad de falsos negativos: 1
 - Cantidad de falsos positivos: 2
